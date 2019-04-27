@@ -1,2 +1,2 @@
 # Readme
-Some snipets codes trying to compare Fklearn vs Sklearn
+Some notebooks trying to compare Fklearn vs Sklearn
